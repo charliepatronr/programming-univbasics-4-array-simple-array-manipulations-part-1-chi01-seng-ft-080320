@@ -1,0 +1,21 @@
+def using_push(array, string)
+  array.push(string)
+end
+
+
+def using_unshift (array, string)
+  array.unshift(string)
+end
+
+
+def using_pop (array)
+  element = array.pop()
+end
+
+pop_with_args (array)
+elements = array.pop(2)
+end
+
+using_shift (array)
+elements = array.shift(2)
+end
