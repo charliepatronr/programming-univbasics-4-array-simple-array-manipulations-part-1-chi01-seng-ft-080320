@@ -21,3 +21,6 @@ elements = array.shift(2)
 end
 
 
+def using_pop(array)
+  element = array.pop()
+end 
